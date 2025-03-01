@@ -13,4 +13,4 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `npx cdk diff`    compare deployed stack with current state
 * `npx cdk synth`   emits the synthesized CloudFormation template
 
-![Fluxo do projeto](https://files.fm/u/8k3v9gdtmz)
+![Fluxo do projeto](adfyp-bl2gd.png)
